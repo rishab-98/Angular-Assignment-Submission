@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\05_assignment",
+    "\\src\\app\\05_assignment\\01_assignment1",
+    "\\src\\app\\05_assignment\\01_assignment1\\containers",
+    "\\src\\app\\05_assignment\\02_assignment2",
+    "\\src\\app\\05_assignment\\02_assignment2\\containers"
+  ],
+  "SelectedNode": "\\src\\app\\05_assignment\\02_assignment2\\assignment2.module.ts",
+  "PreviewInSolutionExplorer": false
+}

@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./assignment1.component.css']
 })
 export class Assignment1Component {
+  output: string;
 
+  onClick(data: string) {
+    this.output = data;
+  }
 }
